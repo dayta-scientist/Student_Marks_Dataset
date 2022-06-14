@@ -11,7 +11,7 @@ Properties of the Dataset: \
 Number of Instances: 100\
 Number of Attributes: 3 including the target variable.
 
-The project is simple yet challenging as it is has very limited features & samples. Can you build regression model to capture all the patterns in the dataset, also maitaining the generalisability of the model?
+The project is simple yet challenging as it has very limited features & samples. Can you build a regression model to capture all the patterns in the dataset, also maintaining the generalisability of the model?
 
 Objective:
 
